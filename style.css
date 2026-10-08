@@ -6,9 +6,18 @@ h1 {
 h2 {
   color: orange;
 }
+h3 {
+font-size: 70px;
+color: blue;
+background-color: yellow
+}
+span{
+  color: red;
+  }
 p {
   font-family: "helvetica neu", arial, sans-serif;
-  background-color: purple
+  background-color: purple;
+  color:white
   }
   
   .test{
@@ -18,3 +27,8 @@ p {
    div , p{
    
    }
+
+   button {
+     background-color: pink;
+     color: white;
+     }
